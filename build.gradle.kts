@@ -3,7 +3,6 @@ plugins {
 	pmd
 }
 
-
 repositories {
     jcenter()
     mavenCentral()

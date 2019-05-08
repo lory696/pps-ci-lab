@@ -1,7 +1,7 @@
 public class Edobrb {
 
 	/**
-		Usefull javadoc...
+		Useful javadoc.
 	**/
 	public static void main(String[] args) {
 		System.out.println("Edobrb");

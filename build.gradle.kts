@@ -1,6 +1,6 @@
 plugins {
  java
- findbugs
+ id("com.github.spotbugs") version "1.7.1"
 }
 
 repositories {

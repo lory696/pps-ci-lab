@@ -1,3 +1,9 @@
 plugins {
- java
+	java
+	pmd
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
 }
